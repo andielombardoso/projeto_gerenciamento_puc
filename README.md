@@ -4,17 +4,8 @@ Projeto de gerenciamento de dados criado durante a matéria de Raciocínio Compu
 
 ## Detalhes do projeto
 
-O sistema deverá oferecer a possibilidade de cadastro dos seguintes dados:
-a. estudante;
-b. disciplina;
-c. professor;
-d. turma;
-e. matrícula.
+O sistema deverá oferecer a possibilidade de cadastro dos seguintes dados: estudante; disciplina; professor; turma; matrícula.
 
-Para cada uma das possibilidades descritas acima, deve ser possível realizar as seguintes funcionalidades:
-a. incluir;
-b. listar;
-c. excluir;
-d. alterar.
+Para cada uma das possibilidades descritas acima, deve ser possível realizar as seguintes funcionalidades: incluir; listar; excluir; alterar.
 
 Os dados devem ser armazenados em uma lista, e posteriormente em um arquivo JSON.
